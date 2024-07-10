@@ -244,3 +244,30 @@ main section {
     font-weight: 700;
     margin-top: 15px;
 }
+.description-page {
+    width: 1440px;
+
+    margin: 0 auto;
+    height: 652px;
+    left: 0;
+    right: 0;
+    margin-top: 130px;
+
+    height: 652px;
+    background-position: center;
+
+}
+
+.ftr {
+    position: absolute;
+    width: 1440px;
+    height: 100px;
+    left: 0;
+    top: 5145px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 32px 150px 32px 150px;
+
+}
